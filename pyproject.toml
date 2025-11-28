@@ -1,0 +1,16 @@
+[project]
+name = "multimodal-sentiment-analyzer"
+version = "0.1.0"
+description = "A multimodal sentiment analyzer that analyzes emotions based on Video, Audio and Visual inputs."
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.5",
+    "opencv-contrib-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "tensorboard>=2.20.0",
+    "torch>=2.9.1",
+    "torchaudio>=2.9.1",
+    "torchvision>=0.24.1",
+    "transformers>=4.57.3",
+]
