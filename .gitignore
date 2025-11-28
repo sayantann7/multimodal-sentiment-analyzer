@@ -2,7 +2,7 @@ dataset/
 training/runs/
 
 # Python-generated files
-__pycache__/
+training/__pycache__/
 *.py[oc]
 build/
 dist/
